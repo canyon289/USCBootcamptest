@@ -1,7 +1,7 @@
 Is Korean food or Mexican food better?
 
 Steps to find out
-I want pull Yelp API reviews
 I want to pull number of restaurants in LA
 I want to ask others in class
 Ask the other bootcamp too
+Pull number of restaurants in new york
